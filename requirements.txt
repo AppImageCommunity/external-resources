@@ -3,3 +3,5 @@
 requests
 -e git+https://github.com/wjwwood/parse_cmake.git#egg=parse_cmake
 dulwich
+rfc6266
+tqdm
